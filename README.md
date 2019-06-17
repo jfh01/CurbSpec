@@ -1,7 +1,7 @@
 <img src="images/cover_image.png">
 
 # CurbLR and CurbSpec
-_June 2018:_ The team at [SharedStreets](http://sharedstreets.io) has taking CurbSpec and substantially evolved it to create [CurbLR](https://github.com/sharedstreets/CurbLR). This work addresses many of the deficiences of CurbSpec, adds thoughtful improvements, and offers a robust path forward towards a more widely deployable data standard for curb regulation. Before attempting to implement CurbSpec, you should consider using [CurbLR](https://github.com/sharedstreets/CurbLR) instead.
+_June 2019:_ The team at [SharedStreets](http://sharedstreets.io) has taking CurbSpec and substantially evolved it to create [CurbLR](https://github.com/sharedstreets/CurbLR). This work addresses many of the deficiences of CurbSpec, adds thoughtful improvements, and offers a robust path forward towards a more widely deployable data standard for curb regulation. Before attempting to implement CurbSpec, you should consider using [CurbLR](https://github.com/sharedstreets/CurbLR) instead.
 
 # What is CurbSpec?
 CurbSpec is a data standard for describing urban curb regulations. It exists to help government effectively manage and regulate the curb and to support public and private users of city streets.
